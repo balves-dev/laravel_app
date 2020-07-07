@@ -10,7 +10,9 @@
 ## Sobre Laravel
 
 O Laravel é uma estrutura de aplicativos da web com sintaxe expressiva e elegante. Acreditamos que o desenvolvimento deve ser uma experiência agradável e criativa para ser verdadeiramente gratificante. O Laravel elimina as dificuldades do desenvolvimento, facilitando tarefas comuns usadas em muitos projetos da web.
+ 
+# Exercício Curso Full Cycle
 
+Projeto utilizado para testes com docker-compose, K8s, CI e GCP.
 
-# laravel_app - Curso Full Cycle
-https://hub.docker.com/repository/docker/bralves/laravel_app
+Docker Hub: https://hub.docker.com/repository/docker/bralves/laravel_app
